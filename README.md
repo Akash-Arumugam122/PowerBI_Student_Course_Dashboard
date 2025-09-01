@@ -15,3 +15,5 @@ The dashboard tracks total fees, total students, certificates issued, and demogr
 - Monthly trends show peak enrollments in April and November
 - Majority of learners are aged 20–29 (52%)
 
+## 📷 Screenshots
+![Dashboard Overview](https://github.com/user-attachments/assets/34a90d2c-2247-4b53-901d-5f6bdf7c5214)
